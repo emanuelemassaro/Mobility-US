@@ -2,11 +2,11 @@
 
 *Authors:*
 
-**Emanuele Massaro (1)*
+**Emanuele Massaro (1)**
 
 *1. EPFL*
 
-**Marco De Nadai, Simone Centellegher, Riccardo Gallotti, Manlio De Domenio, Bruno Lepri (2)*
+**Marco De Nadai, Simone Centellegher, Riccardo Gallotti, Manlio De Domenio, Bruno Lepri (2)**
 
 *2. FBK - Fondazione Bruno Kessler*
 
