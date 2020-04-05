@@ -22,5 +22,5 @@ Temporal sampling of anonymized users’ location is also variable and dependent
 
 In the first process we analyzed the reduction of mobility in NYC. 
 
-![GitHub Logo](NYdiff.png)
+![GitHub Logo](NYdiffMap.png)
 
