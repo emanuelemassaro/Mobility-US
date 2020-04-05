@@ -35,3 +35,5 @@ In the same way we report the radius of gyration.
 ![GitHub Logo](temporalRadius.png)
 
 We also study the correlation between the distance drop and the socio-economic status of the different district. We plot the correlation between houseld income and travel redduction at the community district level.
+
+![GitHub Logo](correlationIncome1.png)
