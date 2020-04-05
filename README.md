@@ -32,3 +32,5 @@ In the same way we report the radius of gyration.
 
 
 ![GitHub Logo](temporalRadius.png)
+
+We also study the correlation between the distance drop and the socio-economic status of the different district.
