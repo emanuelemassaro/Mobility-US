@@ -28,4 +28,4 @@ In the next figure we report the average distance per user per day in the entire
 
 ![GitHub Logo](temporalDist.png)
 
-In the same way we report the radius of gyration.
+In the same way we report the radius of gyration. 
