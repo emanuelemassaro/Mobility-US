@@ -20,3 +20,5 @@ Temporal sampling of anonymized users’ location is also variable and dependent
 
 ## County level
 
+In the first process we analyzed the reduction of mobility at county level. For each day we compute the total distance of each user that made in hour a specific county
+
