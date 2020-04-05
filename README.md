@@ -24,6 +24,8 @@ In the first process we analyzed the reduction of mobility in NYC. In the Figure
 
 ![GitHub Logo](NYdiffMap11.png)
 
-In the next figure we report the trend of the distance per user per day. As we can see the drop is constant over the time. 
+In the next figure we report the average distance per user per day in the entire City.  
 
+![GitHub Logo](temporalDist.png)
 
+In the same way we report the radius of gyration.
