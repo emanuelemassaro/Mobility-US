@@ -20,8 +20,7 @@ Temporal sampling of anonymized users’ location is also variable and dependent
 
 ## New York City
 
-In the first process we analyzed the reduction of mobility in NYC. We analyze more than 9 billion data points and 1 million distinct users.
-In the Figure we report the reduction of the traveling distance in each neighborhood.    
+In the first process we analyzed the reduction of mobility in NYC. We analyze more than 9 billion data points and 1'375'515 distinct users. In the Figure we report the reduction of the traveling distance in each neighborhood.    
 
 ![GitHub Logo](NYdiffMap11.png)
 
