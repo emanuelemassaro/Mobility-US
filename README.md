@@ -24,7 +24,11 @@ In this section we show the reduction of mobility at county level in the US.
 
 ![GitHub Logo](countyMap.png)
 
-We can notice a clear distinction between the coast and the center of the US.
+We can notice a clear distinction between the coast and the center of the US. We report the temporal profile of the recution of the mobility between March 19th and April 1st in terms of radius of gyration and average traveled distance.
+
+![GitHub Logo](temporalCountyDist.png)
+
+![GitHub Logo](temporalCountyRg.png)
 
 ## New York City
 
