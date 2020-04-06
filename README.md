@@ -32,12 +32,14 @@ We can notice a clear distinction between the coast and the center of the US. We
 
 An interesting question is to see the difference between the business days and the weekends. In the next we report the map of the reduction of the mobility for the business days between March, 20th to March, 31st in comparison withe the first day of the analusis, i.e. Maarch 19th.
 
+
 ![GitHub Logo](countyMapBusiness.png)
 
 In a similar way we show the reudction of the mobility for the weekends. 
 
 
 ![GitHub Logo](countyMapWeekends.png)
+
 
 
 ## New York City
