@@ -18,12 +18,19 @@ Location is collected anonymously from opted in users through smartphone applica
 
 Temporal sampling of anonymized users’ location is also variable and dependent on app/OS characteristics and on user behavioral patterns, but it has a high-frequency overall. We selected a panel of users who were active during the period 19 March - 03 April 2020. This leads to a sample of about 17Million users with a total of about 175 billion data points over the period of study. The basic unit of information we process is an event of the form (anonymous hashed user id, time, latitude, longitude), plus additional non-personal metadata and location accuracy. 
 
+
+## Methods
+
 In the next plot we show the number of active users per day during the period of analysis.
 
 ![GitHub Logo](countUsers.png)
 
-Given the the fact that the dataset we analyze contains some infomration of users also of the previous days, we restrict our analysis in the period between March 19th - March 31st.
+Given the the fact that the dataset we analyze contains some infomration of users also of the previous days, we restrict our analysis in the period between March 19th - March 31st. 
 
+
+
+In the analysis we considered only the records with an accuracy less than 100 meters. For each geographical units we count the average distance (in km) made by each user in a specific polygon and for each day we count the average of the distance made by the users in the specific geographic units.
+ 
 
 ## County Level
 
