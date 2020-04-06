@@ -38,13 +38,7 @@ In this section we show the reduction of mobility at county level in the US. We 
 
 In the map we can show a reduction of the mobility in most of the counties, while we can observe an increase of the daily mobility in some other counties.
 
-In the next we report the average distance per day and the average radius of gyration per user per day.
-
-![GitHub Logo](distanceCounty1.png)
-
-![GitHub Logo](radiusCounty.png)
-
-An interesting question is to see the difference between the business days and the weekends. 
+In the next we report the average distance per day and the average radius of gyration per user per day with the difference between the business days and the weekends. 
 
 ![GitHub Logo](distancesDays.png)
 
