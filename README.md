@@ -32,15 +32,15 @@ In the analysis we considered only the records with an accuracy less than 100 me
 
 ## County Level
 
-In this section we show the reduction of mobility at county level in the US.
+In this section we show the reduction of mobility at county level in the US. We count the difference in mobility between March 19th and March 31st
 
-![GitHub Logo](countyMap.png)
+![GitHub Logo](map1931.png)
 
-We can notice a clear distinction between the coast and the center of the US. We report the temporal profile of the recution of the mobility between March 19th and April 1st in terms of radius of gyration and average traveled distance.
+In the map we can show a reduction of the mobility in most of the counties, while we can observe an increase of the daily mobility.
 
-![GitHub Logo](temporalCountyDist.png)
+![GitHub Logo](distanceCounty.png)
 
-![GitHub Logo](temporalCountyRg.png)
+![GitHub Logo](radiusCounty.png)
 
 An interesting question is to see the difference between the business days and the weekends. In the next we report the map of the reduction of the mobility for the business days between March, 20th to March, 31st in comparison withe the first day of the analusis, i.e. Maarch 19th.
 
