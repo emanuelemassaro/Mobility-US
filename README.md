@@ -46,6 +46,9 @@ In the next we report the average distance per day and the average radius of gyr
 
 An interesting question is to see the difference between the business days and the weekends. 
 
+![GitHub Logo](distancesDays.png)
+
+![GitHub Logo](radiusDays.png)
 
 
 
