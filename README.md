@@ -20,6 +20,10 @@ Temporal sampling of anonymized users’ location is also variable and dependent
 
 In the next plot we show the number of active users per day during the period of analysis.
 
+![GitHub Logo](countUsers.png)
+
+Given the the fact that the dataset we analyze contains some infomration of users also of the previous days, we restrict our analysis in the period between March 19th - March 31st.
+
 
 ## County Level
 
