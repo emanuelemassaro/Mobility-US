@@ -27,9 +27,7 @@ In the next plot we show the number of active users per day during the period of
 
 Given the the fact that the dataset we analyze contains some infomration of users also of the previous days, we restrict our analysis in the period between March 19th - March 31st. 
 
-
-
-In the analysis we considered only the records with an accuracy less than 100 meters. For each geographical units we count the average distance (in km) made by each user in a specific polygon and for each day we count the average of the distance made by the users in the specific geographic units.
+In the analysis we considered only the records with an accuracy less than 100 meters. For each geographical units we count the average distance (in km) made by each user in a specific polygon and for each day we count the average of the distance made by the users in the specific geographic units. Given the accuracy of the data we also consider the users that made less than 300km per hour.
  
 
 ## County Level
