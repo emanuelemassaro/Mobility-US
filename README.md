@@ -30,6 +30,10 @@ We can notice a clear distinction between the coast and the center of the US. We
 
 ![GitHub Logo](temporalCountyRg.png)
 
+An interesting question is to see the difference between the business days and the weekends. In the next we report the map of the reduction of the mobility for the business days between March, 20th to March, 31st in comparison withe the first day of the analusis, i.e. Maarch 19th.
+
+
+
 ## New York City
 
 In the first process we analyzed the reduction of mobility in NYC. We analyze more than 9 billion data points and 1'375'515 distinct users. In the Figure we report the reduction of the traveling distance in each neighborhood.    
