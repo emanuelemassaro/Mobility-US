@@ -44,7 +44,7 @@ In the next we report the average distance per day and the average radius of gyr
 
 ![GitHub Logo](radiusDays.png)
 
-However it could be interesting to see also the long range movements across the country
+However it could be interesting to see also the long range movements across the country. 
 
 
 ## New York City
