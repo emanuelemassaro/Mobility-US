@@ -36,7 +36,9 @@ In this section we show the reduction of mobility at county level in the US. We 
 
 ![GitHub Logo](map1931.png)
 
-In the map we can show a reduction of the mobility in most of the counties, while we can observe an increase of the daily mobility.
+In the map we can show a reduction of the mobility in most of the counties, while we can observe an increase of the daily mobility in some other counties.
+
+In the next we report the average distance per day and the average radius of gyration per user per day.
 
 ![GitHub Logo](distanceCounty1.png)
 
