@@ -37,6 +37,7 @@ An interesting question is to see the difference between the business days and t
 In a similar way we show the reudction of the mobility for the weekends. 
 
 
+![GitHub Logo](countyMapWeekends.png)
 
 
 ## New York City
