@@ -32,7 +32,12 @@ In the analysis we considered only the records with an accuracy less than 100 me
 
 ## County Level
 
-In this section we show the reduction of mobility at county level in the US. We count the difference in mobility between March 19th and March 31st
+In this section we show the reduction of mobility at county level in the US. There is a good correlation between active users and population as shown in the next Figure.
+
+![GitHub Logo](corrPop.png)
+
+We count the difference in mobility between March 19th and March 31st.
+
 
 ![GitHub Logo](map1931.png)
 
