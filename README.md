@@ -38,7 +38,7 @@ In this section we show the reduction of mobility at county level in the US. We 
 
 In the map we can show a reduction of the mobility in most of the counties, while we can observe an increase of the daily mobility.
 
-![GitHub Logo](distanceCounty.png)
+![GitHub Logo](distanceCounty1.png)
 
 ![GitHub Logo](radiusCounty.png)
 
