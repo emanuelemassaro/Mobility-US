@@ -34,7 +34,8 @@ An interesting question is to see the difference between the business days and t
 
 ![GitHub Logo](countyMapBusiness.png)
 
-In a similar way we show the reudction of the mobility for the weekends.
+In a similar way we show the reudction of the mobility for the weekends. 
+
 
 
 
