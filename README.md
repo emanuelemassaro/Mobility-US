@@ -50,6 +50,7 @@ An interesting question is to see the difference between the business days and t
 
 ![GitHub Logo](radiusDays.png)
 
+However it could be interesting to see also the long range movements across the country
 
 
 ## New York City
