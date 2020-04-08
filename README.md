@@ -70,7 +70,7 @@ In the same way we report the radius of gyration.
 We also study the correlation between the distance drop and the socio-economic status of the different district. We plot the correlation between houseld income and travel redduction at the community district level.
 
 ![GitHub Logo](correlationIncome22.png)
-
-The plot indicates a positive correlation between travel reduction and houseld income.
+  
+The plot indicates a positive correlation between travel reduction and houseld income.  
 
 
