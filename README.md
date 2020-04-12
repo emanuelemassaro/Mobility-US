@@ -74,3 +74,9 @@ We also study the correlation between the distance drop and the socio-economic s
 The plot indicates a positive correlation between travel reduction and houseld income.  
 
 
+## Comparison among cities
+
+We show the comparison in mobility among 5 different cities: New York, Boston, Chicago, Seattle, Los Angeles and San Francsico.
+
+![GitHub Logo](allCitiesKM.png)
+
