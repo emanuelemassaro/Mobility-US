@@ -74,7 +74,7 @@ In the same way we report the radius of gyration.
 %The plot indicates a positive correlation between travel reduction and houseld income.  
 
 
-## Comparison among cities
+## Comparison among cities 
 
 We show the comparison in mobility among 5 different cities: New York, Boston, Chicago, Seattle, Los Angeles and San Francsico.
 
