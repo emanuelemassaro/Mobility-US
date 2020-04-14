@@ -70,6 +70,8 @@ In the same way we report the radius of gyration.
 
 We show the comparison in mobility among 5 different cities: New York, Boston, Chicago, Seattle, Los Angeles and San Francsico.
 
-![GitHub Logo](trendCities.png)
+![GitHub Logo](trendCities1.png)
 
 We can observe a reduction of the average daily distence for New York, Boston, Chicago and Seattle, while we observe a constant trend for San Francisco and Los Angeles.
+
+![GitHub Logo](variationCities1.png)
