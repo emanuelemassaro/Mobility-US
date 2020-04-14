@@ -64,6 +64,7 @@ In the next figure we report the average distance per user per day in the entire
 
 In the same way we report the radius of gyration.   
 
+![GitHub Logo](temporalRaiusNY.png)
 
 ## Comparison among cities 
 
