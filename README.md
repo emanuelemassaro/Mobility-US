@@ -69,5 +69,6 @@ In the same way we report the radius of gyration.
 
 We show the comparison in mobility among 5 different cities: New York, Boston, Chicago, Seattle, Los Angeles and San Francsico.
 
+
 ![GitHub Logo](allCitiesKM.png)
 
