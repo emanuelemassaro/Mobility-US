@@ -3,7 +3,6 @@
 *Authors:*
 
 **Emanuele Massaro (1)**
-
 *1. EPFL*
 
 
