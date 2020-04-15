@@ -61,6 +61,10 @@ In the next figure we report the average distance per user per day in the entire
 
 ![GitHub Logo](temporalDistNY.png)
 
+To compare in the same time frame the difference in temperature is plotted below.
+
+![GitHub Logo](tempNY.png)
+
 In the same way we report the radius of gyration.   
 
 ![GitHub Logo](temporalRadiusNY.png)
@@ -71,7 +75,7 @@ We show the comparison in mobility among 5 different cities: New York, Boston, C
 
 ![GitHub Logo](trendCities1.png)
 
-We can observe a reduction of the average daily distence for New York, Boston, Chicago and Seattle, while we observe a constant trend for San Francisco and Los Angeles.
+We can observe a reduction of the average daily distance for New York, Boston, Chicago and Seattle, while we observe a constant trend for San Francisco and Los Angeles.
 
 ![GitHub Logo](variationCities1.png)
 
