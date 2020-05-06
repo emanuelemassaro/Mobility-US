@@ -61,9 +61,6 @@ In the next figure we report the average distance per user per day in the entire
 
 ![GitHub Logo](temporalDistNY.png)
 
-To compare in the same time frame the difference in temperature is plotted below.
-
-![GitHub Logo](tempNY.png)
 
 In the same way we report the radius of gyration.   
 
