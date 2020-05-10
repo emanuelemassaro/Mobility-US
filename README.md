@@ -33,6 +33,11 @@ In this section we show the reduction of mobility at county level in the US. The
 
 We can observe that the location dataset is quite representative of the US population.
 
+For each county we can analyse the variation of the social distancing in terms of distance traveled from home and time spent at home. In the next figure we report the variation of those two metrics by comparing the values of the first week of January and the first week of April 2020.
+
+![GitHub Logo](Figures/countySocialDistancing.png)
+
+
 ## New York City
 
 In the first process we analyzed the reduction of mobility in NYC. We analyze more than 9 billion data points and 1'375'515 distinct users. In the Figure we report the reduction of the traveling distance in each neighborhood.    
