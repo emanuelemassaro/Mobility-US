@@ -34,4 +34,7 @@ In this section we show the reduction of mobility at county level in the US. The
 We can observe that the location dataset is quite representative of the US population.
 
 ## New York City
-We performed similare analysis for the City of New York.
+
+In the first process we analyzed the reduction of mobility in NYC. We analyze more than 9 billion data points and 1'375'515 distinct users. In the Figure we report the reduction of the traveling distance in each neighborhood.    
+
+![GitHub Logo](Figures/NYdiffMap.png)
