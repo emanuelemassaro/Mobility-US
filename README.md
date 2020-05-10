@@ -32,3 +32,5 @@ In this section we show the reduction of mobility at county level in the US. The
 ![GitHub Logo](Figures/corrPop.png)
 
 
+
+## New York City
