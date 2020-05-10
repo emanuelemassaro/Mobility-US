@@ -37,8 +37,7 @@ We can observe that the location dataset is quite representative of the US popul
 
 In the first process we analyzed the reduction of mobility in NYC. We analyze more than 9 billion data points and 1'375'515 distinct users. In the Figure we report the reduction of the traveling distance in each neighborhood.    
 
-<img src="Figures/NYdiffMap111.png" width="400" height="400">
-
+![GitHub Logo](Figures/NYdiffMap111.png)
 
 We also report the trend of the variation of time spent at home location from January 1st. We can observe a point of transition on March 15th.
 
