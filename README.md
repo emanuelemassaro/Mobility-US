@@ -29,7 +29,7 @@ The basic unit of information we process is an event of the form (anonymous hash
 
 In this section we show the reduction of mobility at county level in the US. There is a good correlation between active users in the Unacast dataset and population as shown in the next Figure.
 
-![GitHub Logo]<img src="Figures/corrPop.png" width="100" height="100">
+<img src="Figures/corrPop.png" width="400" height="400">
 
 
 ## New York City
