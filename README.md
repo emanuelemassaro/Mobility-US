@@ -1,4 +1,4 @@
-# US Mobility and expenditure patterns during the COVID-19 outbreak
+# Mobility patterns and expenditure behavior in the US during the COVID-19 outbreak
 
 **Emanuele Massaro**
 
