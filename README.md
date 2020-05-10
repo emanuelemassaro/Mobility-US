@@ -4,11 +4,11 @@
 
 **Emanuele Massaro**
 
-*École Polytechnique Fédérale de Lausanne*
+***École Polytechnique Fédérale de Lausanne*
 
-*The World Bank Group* 
+***The World Bank Group* 
 
-*Massachusetts Institute of Technology*
+***Massachusetts Institute of Technology*
 
 
 
