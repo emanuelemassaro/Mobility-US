@@ -43,7 +43,12 @@ We also report the trend of the variation of time spent at home location from Ja
 
 ![GitHub Logo](Figures/timeHomeNY.png) 
 
-In as similar fashion we analized the expidenditure patterns in the City from January 1st to April 4th. The expenditure data from Safegraph  
+In as similar fashion we analized the expidenditure patterns in the City from January 1st to April 4th. The expenditure data from Safegraph.
 
 ![GitHub Logo](Figures/expenditureNY.png) 
+
+As illustrative way it is possible to show the comparison between time spent at home location for the different zip code polygons in the City of New York. Here we compare the difference between average of the values between the first week of January and the first week of April.
+
+![GitHub Logo](Figures/comparisonNY.png) 
+
 
