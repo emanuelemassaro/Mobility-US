@@ -31,7 +31,8 @@ The basic unit of information we process is an event of the form (anonymous hash
 
 ## County Level
 
-In this section we show the reduction of mobility at county level in the US. There is a good correlation between active users and population as shown in the next Figure.
+In this section we show the reduction of mobility at county level in the US. There is a good correlation between active users in the Unacas dataset and population as shown in the next Figure.
 
+![GitHub Logo](Figures/corrPop.png)
 
 
