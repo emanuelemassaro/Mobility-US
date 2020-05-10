@@ -31,6 +31,7 @@ In this section we show the reduction of mobility at county level in the US. The
 
 <img src="Figures/corrPop.png" width="400" height="400">
 
+We can observe that the location dataset is quite representative of the US population.
 
 ## New York City
 We performed similare analysis for the City of New York.
