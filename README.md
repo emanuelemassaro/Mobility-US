@@ -45,5 +45,5 @@ We also report the trend of the variation of time spent at home location from Ja
 
 In as similar fashion we analized the expidenditure patterns in the City. 
 
-![GitHub Logo](Figures/timeHomeNY.png) 
+![GitHub Logo](Figures/expenditureNY.png) 
 
