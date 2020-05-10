@@ -39,7 +39,7 @@ In the first process we analyzed the reduction of mobility in NYC. We analyze mo
 
 ![GitHub Logo](Figures/NYdiffMap111.png)
 
-We also report the trend of the variation of time spent at home location from January 1st. We can observe a point of transition on March 15th.
+We also report the trend of the variation of time spent at home location from January 1st. We can observe a point of transition on March 15th. In the next figures the median values.
 
 ![GitHub Logo](Figures/timeHomeNY.png) 
 
