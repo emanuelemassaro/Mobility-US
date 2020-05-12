@@ -8,8 +8,9 @@
 
 ***Massachusetts Institute of Technology*
 
-*Notice: this is preliminary analysis, has not yet been peer-reviewed and is updated daily as new data becomes available. This work is licensed under a Creative Commons Attribution 4.0 International License.*     
+*Notice 1: this is preliminary analysis, has not yet been peer-reviewed and is updated daily as new data becomes available. This work is licensed under a Creative Commons Attribution 4.0 International License.*     
 
+*Notice 2: This is preliminary work has not been shared yet with the public audiance. It serves as proof of concept for the AXA Research Fund – Call for Proposals Covid-19.*
 
 ## Data
 
