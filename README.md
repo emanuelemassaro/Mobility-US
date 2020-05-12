@@ -12,6 +12,11 @@
 
 *Notice 2: This is preliminary work has not been shared yet with the public audiance. It serves as proof of concept for the AXA Research Fund – Call for Proposals Covid-19.*
 
+*Notice 3: The same mobility analysis showed here for the US can be done for the different countries listed in the proposal.*
+
+
+*Notice 4: The expenditure data analysis can be at this stage for the US and Mexico.*
+
 ## Data
 
 Mobility data is provided by Unacast INC., a location intelligence, and measurement platform.  Expenditure data is given by Safegraph Inc.
